@@ -1,6 +1,6 @@
 # Wallety - Budget Tracker
 
-![version](https://img.shields.io/badge/version-1.0.0-blue) ![licence](https://img.shields.io/badge/licence-MIT-blue)
+![version](https://img.shields.io/badge/version-1.2.0-blue) ![licence](https://img.shields.io/badge/licence-MIT-blue)
 
 Wallety is a budget tracker for personal finance and budget planning.
 
